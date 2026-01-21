@@ -1,5 +1,3 @@
-# DanielBelo
-My personal repository
 <h1 align="center">Hi 👋, I'm Daniel Belo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
