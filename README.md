@@ -4,8 +4,8 @@ Student of Information Systems Programming & Aspiring Software Developer from Po
 </h3>
 
 <p align="center">
-Motivated and detail-oriented developer with a strong interest in building web applications and learning modern technologies.  
-Currently focused on improving my skills in full-stack development and software engineering.
+Motivated and detail-oriented developer with a strong interest in building web applications and software solutions.  
+Currently focused on improving my skills in full-stack development and modern backend architectures.
 </p>
 
 ---
@@ -13,12 +13,45 @@ Currently focused on improving my skills in full-stack development and software 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/daniel-belo" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn - Daniel Belo" 
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn - Daniel Belo"
          height="30" width="40" />
   </a>
 </p>
+
+---
+
+<h3 align="left">📌 Featured Projects</h3>
+
+<ul>
+  <li>
+    <b>BeFit Prototype</b> – Full-stack web application focused on health and fitness management  
+    <br/>
+    <i>Technologies:</i> React, Node.js, NestJS, PostgreSQL  
+    <br/>
+    🔗 <a href="https://github.com/DanielBelo/BeFitPrototype">View Repository</a>
+  </li>
+  <br/>
+  <li>
+    <b>Academic Projects</b> – Various university projects developed during the CTESP program  
+    <br/>
+    <i>Technologies:</i> Java, SQL, REST APIs  
+    <br/>
+    🔗 <a href="https://github.com/DanielBelo?tab=repositories">View Repositories</a>
+  </li>
+</ul>
+
+---
+
+<h3 align="left">📚 Currently Learning</h3>
+
+<ul>
+  <li>Advanced Java and Spring-based architectures</li>
+  <li>RESTful APIs & Backend best practices</li>
+  <li>TypeScript & scalable backend development</li>
+  <li>Database design and optimization (PostgreSQL & MySQL)</li>
+</ul>
 
 ---
 
@@ -68,4 +101,16 @@ Currently focused on improving my skills in full-stack development and software 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielBelo&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBelo&layout=compact" alt="Top Languages" />
 </p>
