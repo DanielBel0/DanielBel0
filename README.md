@@ -1,6 +1,5 @@
 <!-- =======================
      Daniel Belo - Profile README
-     Copy/paste everything into README.md
 ======================== -->
 
 <h1 align="center">Hi 👋, I'm Daniel Belo</h1>
@@ -110,17 +109,17 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<!-- NOTE: if stats look outdated, bump v= number to refresh cache -->
+<!-- Mirror endpoint (more reliable when the main one is rate-limited) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DanielBelo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&v=3"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielBelo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="Daniel Belo GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=3"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DanielBelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
     alt="Daniel Belo Top Languages"
   />
 </p>
