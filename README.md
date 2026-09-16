@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=CTeSP+Information+Systems+Programming+Student;Aspiring+Software+Developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Full-stack+learning+journey+%F0%9F%9A%80;Always+learning%2C+always+building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Backend+Developer;Aspiring+Software+Developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Full-stack+learning+journey+%F0%9F%9A%80;Always+learning%2C+always+building"
     alt="Typing animation"
   />
 </p>
